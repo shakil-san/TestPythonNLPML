@@ -22,3 +22,4 @@ class Aircraft:
     def registration(self):
         return self._registration
 
+    print("hi")
