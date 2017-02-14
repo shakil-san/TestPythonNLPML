@@ -23,5 +23,4 @@ class Aircraft:
         return self._registration
 
     print("hi")
-
     print("hi again")
